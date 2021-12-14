@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
       routes: {
         CategoriesScreen.routeName: (ctx) => const CategoriesScreen(),
         CategoryMealsScreen.routeName: (ctx) => CategoryMealsScreen(),
-        MealDetailScreen.routeName: (ctx) => MealDetailScreen(),
+        MealDetailScreen.routeName: (ctx) => const MealDetailScreen(),
       },
     );
   }
