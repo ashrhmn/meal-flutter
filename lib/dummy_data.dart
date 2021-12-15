@@ -56,21 +56,6 @@ const DUMMY_CATEGORIES = [
     title: 'Summer',
     color: Colors.teal,
   ),
-  Category(
-    id: 'c8',
-    title: 'Asian',
-    color: Colors.lightGreen,
-  ),
-  Category(
-    id: 'c9',
-    title: 'French',
-    color: Colors.pink,
-  ),
-  Category(
-    id: 'c10',
-    title: 'Summer',
-    color: Colors.teal,
-  ),
 ];
 
 const DUMMY_MEALS = [
